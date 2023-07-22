@@ -16,6 +16,7 @@
         "nativephp/electron": "dev-dev"
     },
     "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.13",
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.18",
@@ -68,9 +69,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/chrisreedio/electron"
+		{
+            "type": "path",
+            "url": "..\\nativephp-electron"
         },
         {
             "type": "vcs",

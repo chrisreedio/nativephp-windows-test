@@ -32,17 +32,11 @@ class NativeAppServiceProvider
 
         Window::open()
             ->title('NativePHP on Windows')
-            ->width(800)            
-            ->height(400)
+            ->width(1000)            
+            ->height(1200)
             ->showDevTools(false)
             ->rememberState();
 
-       
- 
-
-            
-
-            
 
         /**
             Dock::menu(
