@@ -7,6 +7,7 @@ use Native\Laravel\Facades\Dock;
 use Native\Laravel\Facades\Window;
 use Native\Laravel\GlobalShortcut;
 use Native\Laravel\Menu\Menu;
+use Native\Laravel\Facades\Notification;
 
 class NativeAppServiceProvider
 {
@@ -30,8 +31,18 @@ class NativeAppServiceProvider
             ->register();
 
         Window::open()
-            ->width(800)
-            ->height(800);
+            ->title('NativePHP on Windows')
+            ->width(800)            
+            ->height(400)
+            ->showDevTools(false)
+            ->rememberState();
+
+       
+ 
+
+            
+
+            
 
         /**
             Dock::menu(
