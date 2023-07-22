@@ -23,6 +23,15 @@ class NativeAppServiceProvider
                 ->link('https://beyondco.de', 'Beyond Code')
                 ->link('https://simonhamp.me', 'Simon Hamp')
             )
+			// NativePHP for Windows 
+			->submenu('About Chris Reed', Menu::new()
+                ->link('https://chrisreed.io', 'Website')
+                ->link('https://twitter.com/chrisreedtech', 'Twitter')
+            )
+			->submenu('About Kyle Knowles', Menu::new()
+                ->link('https://twitter.com/knowlestech', 'Twitter')
+            )
+			///
             ->submenu('View', Menu::new()
                 ->toggleFullscreen()
                 ->separator()
