@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "849da450f177762c27016688c34ac8db",
+    "content-hash": "e4c249f14f595ab2c96958e7689fb87a",
     "packages": [
         {
             "name": "brick/math",
@@ -1864,10 +1864,16 @@
         {
             "name": "nativephp/electron",
             "version": "dev-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/chrisreedio/electron.git",
+                "reference": "81e528835e97639fd770a29174124fe7bf2468c3"
+            },
             "dist": {
-                "type": "path",
-                "url": "../nativephp-electron",
-                "reference": "f715290f5f3d4e98986d697b586ba334f3ee6c60"
+                "type": "zip",
+                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/81e528835e97639fd770a29174124fe7bf2468c3",
+                "reference": "81e528835e97639fd770a29174124fe7bf2468c3",
+                "shasum": ""
             },
             "require": {
                 "illuminate/contracts": "^10.0",
@@ -1944,9 +1950,10 @@
                 "laravel",
                 "nativephp"
             ],
-            "transport-options": {
-                "relative": true
-            }
+            "support": {
+                "source": "https://github.com/chrisreedio/electron/tree/dev"
+            },
+            "time": "2023-07-22T06:09:32+00:00"
         },
         {
             "name": "nativephp/laravel",
