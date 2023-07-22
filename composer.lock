@@ -2032,12 +2032,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/php-bin.git",
-                "reference": "8572687a9bc8ec7a6d412a5a765996a9ca7022ae"
+                "reference": "377c3a56f66900fffd4231d02964801cdb877e9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/php-bin/zipball/8572687a9bc8ec7a6d412a5a765996a9ca7022ae",
-                "reference": "8572687a9bc8ec7a6d412a5a765996a9ca7022ae",
+                "url": "https://api.github.com/repos/chrisreedio/php-bin/zipball/377c3a56f66900fffd4231d02964801cdb877e9b",
+                "reference": "377c3a56f66900fffd4231d02964801cdb877e9b",
                 "shasum": ""
             },
             "type": "library",
@@ -2068,7 +2068,7 @@
             "support": {
                 "source": "https://github.com/chrisreedio/php-bin/tree/dev"
             },
-            "time": "2023-07-21T20:25:50+00:00"
+            "time": "2023-07-21T21:57:10+00:00"
         },
         {
             "name": "nesbot/carbon",
