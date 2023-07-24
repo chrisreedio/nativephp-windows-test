@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "84efd30ac05872e0bfd1deade9a320ff",
+    "content-hash": "8ec10e89f03c75fe7a82efadab5e69a7",
     "packages": [
         {
             "name": "brick/math",
@@ -1863,16 +1863,16 @@
         },
         {
             "name": "nativephp/electron",
-            "version": "dev-main",
+            "version": "dev-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/electron.git",
-                "reference": "afc4418d8534d2806f9ea2a302fcbe972429b55c"
+                "reference": "ccc4a3df89790ab44a8b40816f18e4bafc299a65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/afc4418d8534d2806f9ea2a302fcbe972429b55c",
-                "reference": "afc4418d8534d2806f9ea2a302fcbe972429b55c",
+                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/ccc4a3df89790ab44a8b40816f18e4bafc299a65",
+                "reference": "ccc4a3df89790ab44a8b40816f18e4bafc299a65",
                 "shasum": ""
             },
             "require": {
@@ -1895,7 +1895,6 @@
                 "phpstan/phpstan-phpunit": "^1.0",
                 "spatie/laravel-ray": "^1.26"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "laravel": {
@@ -1952,9 +1951,9 @@
                 "nativephp"
             ],
             "support": {
-                "source": "https://github.com/chrisreedio/electron/tree/main"
+                "source": "https://github.com/chrisreedio/electron/tree/dev"
             },
-            "time": "2023-07-24T02:49:25+00:00"
+            "time": "2023-07-24T04:01:52+00:00"
         },
         {
             "name": "nativephp/laravel",
