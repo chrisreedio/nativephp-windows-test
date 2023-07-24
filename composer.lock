@@ -1867,12 +1867,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/electron.git",
-                "reference": "ccc4a3df89790ab44a8b40816f18e4bafc299a65"
+                "reference": "3bd6a9ba2e7542404322eeb018896daa5107810d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/ccc4a3df89790ab44a8b40816f18e4bafc299a65",
-                "reference": "ccc4a3df89790ab44a8b40816f18e4bafc299a65",
+                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/3bd6a9ba2e7542404322eeb018896daa5107810d",
+                "reference": "3bd6a9ba2e7542404322eeb018896daa5107810d",
                 "shasum": ""
             },
             "require": {
@@ -1953,7 +1953,7 @@
             "support": {
                 "source": "https://github.com/chrisreedio/electron/tree/dev"
             },
-            "time": "2023-07-24T04:01:52+00:00"
+            "time": "2023-07-24T04:08:03+00:00"
         },
         {
             "name": "nativephp/laravel",
