@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ec10e89f03c75fe7a82efadab5e69a7",
+    "content-hash": "6896cbbb89bf284a3bf055c9bea3040f",
     "packages": [
         {
             "name": "brick/math",
@@ -976,16 +976,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v10.15.0",
+            "version": "v10.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "c7599dc92e04532824bafbd226c2936ce6a905b8"
+                "reference": "5c93d2795c393b462481179ce42dedfb30cc19b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/c7599dc92e04532824bafbd226c2936ce6a905b8",
-                "reference": "c7599dc92e04532824bafbd226c2936ce6a905b8",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/5c93d2795c393b462481179ce42dedfb30cc19b5",
+                "reference": "5c93d2795c393b462481179ce42dedfb30cc19b5",
                 "shasum": ""
             },
             "require": {
@@ -1172,7 +1172,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2023-07-11T13:43:52+00:00"
+            "time": "2023-07-26T03:30:46+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -1242,16 +1242,16 @@
         },
         {
             "name": "laravel/serializable-closure",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/serializable-closure.git",
-                "reference": "f23fe9d4e95255dacee1bf3525e0810d1a1b0f37"
+                "reference": "e5a3057a5591e1cfe8183034b0203921abe2c902"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/f23fe9d4e95255dacee1bf3525e0810d1a1b0f37",
-                "reference": "f23fe9d4e95255dacee1bf3525e0810d1a1b0f37",
+                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/e5a3057a5591e1cfe8183034b0203921abe2c902",
+                "reference": "e5a3057a5591e1cfe8183034b0203921abe2c902",
                 "shasum": ""
             },
             "require": {
@@ -1298,7 +1298,7 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
-            "time": "2023-01-30T18:31:20+00:00"
+            "time": "2023-07-14T13:56:28+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -1863,16 +1863,16 @@
         },
         {
             "name": "nativephp/electron",
-            "version": "dev-dev",
+            "version": "dev-win-build",
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/electron.git",
-                "reference": "3bd6a9ba2e7542404322eeb018896daa5107810d"
+                "reference": "93632630296a88ed81b33dee75a44fed5fe3fa98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/3bd6a9ba2e7542404322eeb018896daa5107810d",
-                "reference": "3bd6a9ba2e7542404322eeb018896daa5107810d",
+                "url": "https://api.github.com/repos/chrisreedio/electron/zipball/93632630296a88ed81b33dee75a44fed5fe3fa98",
+                "reference": "93632630296a88ed81b33dee75a44fed5fe3fa98",
                 "shasum": ""
             },
             "require": {
@@ -1951,22 +1951,22 @@
                 "nativephp"
             ],
             "support": {
-                "source": "https://github.com/chrisreedio/electron/tree/dev"
+                "source": "https://github.com/chrisreedio/electron/tree/win-build"
             },
-            "time": "2023-07-24T04:08:03+00:00"
+            "time": "2023-07-27T22:52:46+00:00"
         },
         {
             "name": "nativephp/laravel",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/NativePHP/laravel.git",
-                "reference": "bdde66b7313927354b17137a354c209b892e1291"
+                "reference": "42ce4e93eb7ed41522f3435acc673ddaf59aa1c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/NativePHP/laravel/zipball/bdde66b7313927354b17137a354c209b892e1291",
-                "reference": "bdde66b7313927354b17137a354c209b892e1291",
+                "url": "https://api.github.com/repos/NativePHP/laravel/zipball/42ce4e93eb7ed41522f3435acc673ddaf59aa1c7",
+                "reference": "42ce4e93eb7ed41522f3435acc673ddaf59aa1c7",
                 "shasum": ""
             },
             "require": {
@@ -2029,9 +2029,9 @@
             ],
             "support": {
                 "issues": "https://github.com/NativePHP/laravel/issues",
-                "source": "https://github.com/NativePHP/laravel/tree/0.1.0"
+                "source": "https://github.com/NativePHP/laravel/tree/0.1.1"
             },
-            "time": "2023-07-18T15:36:18+00:00"
+            "time": "2023-07-25T22:24:01+00:00"
         },
         {
             "name": "nativephp/php-bin",
@@ -2039,12 +2039,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/php-bin.git",
-                "reference": "a4414cdc07bfe2c29134244e5aa9d16eb583cbce"
+                "reference": "7a8630aac2c9d784eb46f52ced2fce3bd0155019"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/php-bin/zipball/a4414cdc07bfe2c29134244e5aa9d16eb583cbce",
-                "reference": "a4414cdc07bfe2c29134244e5aa9d16eb583cbce",
+                "url": "https://api.github.com/repos/chrisreedio/php-bin/zipball/7a8630aac2c9d784eb46f52ced2fce3bd0155019",
+                "reference": "7a8630aac2c9d784eb46f52ced2fce3bd0155019",
                 "shasum": ""
             },
             "default-branch": true,
@@ -2076,7 +2076,7 @@
             "support": {
                 "source": "https://github.com/chrisreedio/php-bin/tree/main"
             },
-            "time": "2023-05-31T10:39:43+00:00"
+            "time": "2023-07-26T12:28:41+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -7203,16 +7203,16 @@
         },
         {
             "name": "phpstan/phpdoc-parser",
-            "version": "1.22.1",
+            "version": "1.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "65c39594fbd8c67abfc68bb323f86447bab79cc0"
+                "reference": "a2b24135c35852b348894320d47b3902a94bc494"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/65c39594fbd8c67abfc68bb323f86447bab79cc0",
-                "reference": "65c39594fbd8c67abfc68bb323f86447bab79cc0",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/a2b24135c35852b348894320d47b3902a94bc494",
+                "reference": "a2b24135c35852b348894320d47b3902a94bc494",
                 "shasum": ""
             },
             "require": {
@@ -7244,22 +7244,22 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.22.1"
+                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.23.0"
             },
-            "time": "2023-06-29T20:46:06+00:00"
+            "time": "2023-07-23T22:17:56+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "10.1.2",
+            "version": "10.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "db1497ec8dd382e82c962f7abbe0320e4882ee4e"
+                "reference": "be1fe461fdc917de2a29a452ccf2657d325b443d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/db1497ec8dd382e82c962f7abbe0320e4882ee4e",
-                "reference": "db1497ec8dd382e82c962f7abbe0320e4882ee4e",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/be1fe461fdc917de2a29a452ccf2657d325b443d",
+                "reference": "be1fe461fdc917de2a29a452ccf2657d325b443d",
                 "shasum": ""
             },
             "require": {
@@ -7316,7 +7316,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
                 "security": "https://github.com/sebastianbergmann/php-code-coverage/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/10.1.2"
+                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/10.1.3"
             },
             "funding": [
                 {
@@ -7324,7 +7324,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-05-22T09:04:27+00:00"
+            "time": "2023-07-26T13:45:28+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
